@@ -5,7 +5,7 @@ this is a repository to showcase my ability to create a personalized java CLI
 For Windows users: 
   - to compile, you use the command line   javac -cp ".;picocli-4.7.7.jar" CompanyPrinter.java
   - to execute:
-     1. you use the command line   java -cp ".;picocli-4.7.7.jar" CompanyPrinter --print-company  to get the name of the company
+     1. you use the command line   java -cp ".;picocli-4.7.7.jar" CompanyPrinter -c "....."(your desired name here) -p  to get the name of the company
      2. you use the command line   java -cp ".;picocli-4.7.7.jar" CompanyPrinter --help    to get the help list of this code 
      3. you did not call the correct argument. e.g java -cp ".;picocli-4.7.7.jar" CompanyPrinter --haha   the code will still call out a help list to guide users
    
@@ -13,7 +13,7 @@ For Windows users:
 
 1. Successful calling the company name:
     
-   Hello Impact.com! This CLI was made for the job application
+   Hello "......"(your desired name)! This CLI was made for the job application
 
 2. other outputs:
 
