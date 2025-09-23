@@ -24,7 +24,7 @@ For Windows users:
 
 
 
-<img width="758" height="70" alt="example output" src="example output.png" />
+<img width="758" height="70" alt="example output" src= example_output.png />
 
 
 
