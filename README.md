@@ -24,6 +24,10 @@ For Windows users:
 
 
 
+<img width="758" height="70" alt="example output" src="example output.png" />
+
+
+
 ## versions
 
 Java: 17.0.1
